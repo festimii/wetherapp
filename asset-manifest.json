@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/festimii/wetherapp/static/css/main.229661b4.chunk.css",
-    "main.js": "/festimii/wetherapp/static/js/main.9a4a1ace.chunk.js",
-    "main.js.map": "/festimii/wetherapp/static/js/main.9a4a1ace.chunk.js.map",
+    "main.js": "/festimii/wetherapp/static/js/main.adfbad10.chunk.js",
+    "main.js.map": "/festimii/wetherapp/static/js/main.adfbad10.chunk.js.map",
     "runtime-main.js": "/festimii/wetherapp/static/js/runtime-main.47daa895.js",
     "runtime-main.js.map": "/festimii/wetherapp/static/js/runtime-main.47daa895.js.map",
     "static/js/2.d71bb4e5.chunk.js": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js",
     "static/js/2.d71bb4e5.chunk.js.map": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js.map",
     "index.html": "/festimii/wetherapp/index.html",
-    "precache-manifest.a9b78083b62a0a4e16ad14d855366752.js": "/festimii/wetherapp/precache-manifest.a9b78083b62a0a4e16ad14d855366752.js",
+    "precache-manifest.fa21aee2b9a71cbfb63cdc75c95d7f0d.js": "/festimii/wetherapp/precache-manifest.fa21aee2b9a71cbfb63cdc75c95d7f0d.js",
     "service-worker.js": "/festimii/wetherapp/service-worker.js",
     "static/css/main.229661b4.chunk.css.map": "/festimii/wetherapp/static/css/main.229661b4.chunk.css.map",
     "static/js/2.d71bb4e5.chunk.js.LICENSE.txt": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.47daa895.js",
     "static/js/2.d71bb4e5.chunk.js",
     "static/css/main.229661b4.chunk.css",
-    "static/js/main.9a4a1ace.chunk.js"
+    "static/js/main.adfbad10.chunk.js"
   ]
 }

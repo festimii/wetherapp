@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/festimii/wetherapp/precache-manifest.a9b78083b62a0a4e16ad14d855366752.js"
+  "/festimii/wetherapp/precache-manifest.fa21aee2b9a71cbfb63cdc75c95d7f0d.js"
 );
 
 self.addEventListener('message', (event) => {
