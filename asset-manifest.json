@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/festimii/wetherapp.git/static/css/main.f4a4fdb8.chunk.css",
-    "main.js": "/festimii/wetherapp.git/static/js/main.1d804c18.chunk.js",
-    "main.js.map": "/festimii/wetherapp.git/static/js/main.1d804c18.chunk.js.map",
-    "runtime-main.js": "/festimii/wetherapp.git/static/js/runtime-main.f79fb667.js",
-    "runtime-main.js.map": "/festimii/wetherapp.git/static/js/runtime-main.f79fb667.js.map",
-    "static/js/2.d71bb4e5.chunk.js": "/festimii/wetherapp.git/static/js/2.d71bb4e5.chunk.js",
-    "static/js/2.d71bb4e5.chunk.js.map": "/festimii/wetherapp.git/static/js/2.d71bb4e5.chunk.js.map",
-    "index.html": "/festimii/wetherapp.git/index.html",
-    "precache-manifest.7f3ceb3e6f13b8f3288380cf5ce4a1b0.js": "/festimii/wetherapp.git/precache-manifest.7f3ceb3e6f13b8f3288380cf5ce4a1b0.js",
-    "service-worker.js": "/festimii/wetherapp.git/service-worker.js",
-    "static/css/main.f4a4fdb8.chunk.css.map": "/festimii/wetherapp.git/static/css/main.f4a4fdb8.chunk.css.map",
-    "static/js/2.d71bb4e5.chunk.js.LICENSE.txt": "/festimii/wetherapp.git/static/js/2.d71bb4e5.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/festimii/wetherapp.git/static/media/warm-bg.635ed87d.jpg"
+    "main.css": "/festimii/wetherapp/static/css/main.229661b4.chunk.css",
+    "main.js": "/festimii/wetherapp/static/js/main.9a4a1ace.chunk.js",
+    "main.js.map": "/festimii/wetherapp/static/js/main.9a4a1ace.chunk.js.map",
+    "runtime-main.js": "/festimii/wetherapp/static/js/runtime-main.47daa895.js",
+    "runtime-main.js.map": "/festimii/wetherapp/static/js/runtime-main.47daa895.js.map",
+    "static/js/2.d71bb4e5.chunk.js": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js",
+    "static/js/2.d71bb4e5.chunk.js.map": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js.map",
+    "index.html": "/festimii/wetherapp/index.html",
+    "precache-manifest.a9b78083b62a0a4e16ad14d855366752.js": "/festimii/wetherapp/precache-manifest.a9b78083b62a0a4e16ad14d855366752.js",
+    "service-worker.js": "/festimii/wetherapp/service-worker.js",
+    "static/css/main.229661b4.chunk.css.map": "/festimii/wetherapp/static/css/main.229661b4.chunk.css.map",
+    "static/js/2.d71bb4e5.chunk.js.LICENSE.txt": "/festimii/wetherapp/static/js/2.d71bb4e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/festimii/wetherapp/static/media/warm-bg.635ed87d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f79fb667.js",
+    "static/js/runtime-main.47daa895.js",
     "static/js/2.d71bb4e5.chunk.js",
-    "static/css/main.f4a4fdb8.chunk.css",
-    "static/js/main.1d804c18.chunk.js"
+    "static/css/main.229661b4.chunk.css",
+    "static/js/main.9a4a1ace.chunk.js"
   ]
 }
