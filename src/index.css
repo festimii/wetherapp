@@ -5,23 +5,28 @@
 }
 
 body {
-  font-family: "montseratt", sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
 }
 
 .app {
-  background-image: url("./assets/cold-bg.jpg");
+  background-image: url("https://images.hdqwalls.com/download/wolf-cave-minimalist-4k-s1-2048x1152.jpg");
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease;
 }
 @media screen and (max-width: 600px) {
   .app {
-    background-image: url("./assets/cold-bg-phone.jpg");
+    background-image: url("https://images.hdqwalls.com/download/wolf-cave-minimalist-4k-s1-2160x3840.jpg");
+  }
+}
+@media screen and (max-width: 600px) {
+  .app.warm {
+    background-image: url("https://images.hdqwalls.com/download/farm-field-flora-flowers-scenery-5k-yb-2160x3840.jpg");
   }
 }
 
 .app.warm {
-  background-image: url("./assets/warm-bg.jpg");
+  background-image: url("https://images.hdqwalls.com/download/farm-field-flora-flowers-scenery-5k-yb-3840x2160.jpg");
 }
 
 main {
@@ -57,8 +62,7 @@ main {
   outline: none;
 
   background-color: rgba(255, 255, 255, 0.5);
-  border-radius: 0px 0px 16px 16px;
-  margin-top: -25px;
+  border-radius: 16px 16px 16px 16px;
 
   box-shadow: 0px 5px rgba(0, 0, 0, 0.2);
 
@@ -74,7 +78,7 @@ main {
 
 .location-box .location {
   color: #fff;
-  font-size: 32px;
+  font-size: 39px;
   font-weight: 500;
   text-align: center;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
@@ -94,13 +98,13 @@ main {
 }
 
 .weather-box .temp {
+  margin-top: -85px;
   position: relative;
   display: inline-block;
-  margin: 30px auto;
-  background-color: rgba(255, 255, 255, 0.2);
+
   border-radius: 20px;
 
-  padding: 100px 130px;
+  padding: 100px 130px 13px 100px;
 
   color: #fff;
   font-size: 102px;
@@ -108,7 +112,6 @@ main {
 
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
-  box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
 }
 
 .weather-box .weather {
@@ -121,8 +124,8 @@ main {
   .weather-box .temp {
     position: relative;
     display: inline-block;
-    margin: 30px auto;
-    background-color: rgba(255, 255, 255, 0.2);
+    margin: 4px auto;
+
     border-radius: 20px;
 
     padding: 15px 25px;
@@ -133,6 +136,5 @@ main {
 
     text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
     text-align: center;
-    box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
   }
 }

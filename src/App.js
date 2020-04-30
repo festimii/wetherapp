@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Cookies from "js-cookie";
 const api = {
   key: "81cf5b684f71bf086c8145e16b1173ae",
   base: "https://api.openweathermap.org/data/2.5/",
@@ -15,6 +16,7 @@ function App() {
           setWeather(result);
           setQuery("");
           console.log(result);
+          Cookies.set("name", "value");
         });
     }
   };
